@@ -1,10 +1,10 @@
 # ByeWifi
 
 ## Table of Contents
-[Description](#description)
-[Requirements](#requirements)
-[Installation](#installation)
-[Usage](#usage)
+- [Description](#description)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
 
 ## Description
 "ByeWifi" is a practice tool that automates 'arpspoofing' to disrupt the internet connection of someone using our network.
