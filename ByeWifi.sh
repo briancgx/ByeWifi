@@ -10,7 +10,7 @@ EOF
 
 check_herramienta() {
   if ! [ -x "$(command -v $1)" ]; then
-    echo "Error: $1 no esta instalado. Por favor, instala $1 y vuelve a intentarl>
+    echo "Error: $1 no esta instalado. Por favor, instala $1 y vuelve a intentarlo." >&2
     exit 1
   fi
 }
