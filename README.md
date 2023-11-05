@@ -12,7 +12,7 @@
 ## Requirements
 To have the 'dsniff' tool installed
 ```bash
-sudo apt install dnsiff
+sudo apt install dsniff
 ```
 Know the network interface.
 Know the target IP.
